@@ -1,1 +1,1 @@
-<img src="https://user-images.githubusercontent.com/32753167/166299930-37bef1e7-78be-4615-9837-302301cf08cf.png" width="1400"/>
+![swift-libp2p-logo-wide](https://user-images.githubusercontent.com/32753167/172018420-5bd4f06b-8604-4949-bb12-7521fbbe54e0.png)
